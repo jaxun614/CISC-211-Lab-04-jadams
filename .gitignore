@@ -40,3 +40,5 @@
 *.s~
 *.c~
 *.DS_Store
+/Lab-04-starter/firmware/Lab-04-starter.X/build/
+/Lab-04-starter/firmware/Lab-04-starter.X/dist/
